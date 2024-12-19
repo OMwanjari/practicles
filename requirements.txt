@@ -1,0 +1,16 @@
+pandas
+PyPDF2
+firebase-admin
+google-generativeai
+pip
+setuptools
+wheel
+plotly
+pyrebase4
+python-dotenv
+spacy
+thinc
+streamlit
+streamlit-extras
+streamlit-option-menu
+st-circular-progress
