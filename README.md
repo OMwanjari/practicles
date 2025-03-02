@@ -1,14 +1,14 @@
-#Theme #
+#Theme
 changed theme
-#home page#
+#home page
 updated home page
-#login page#
+#login page
 error handling done 
-#student page#
+#student page
 ui changes 
 updated prompt
-#admin page#
+#admin page
 new dashboard
 missing data handling 
-#contact page#
+#contact page
 updated
